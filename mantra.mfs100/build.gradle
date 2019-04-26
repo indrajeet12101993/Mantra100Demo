@@ -1,0 +1,4 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('mantra.mfs100.jar'))
+dependencies {
+}
